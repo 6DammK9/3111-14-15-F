@@ -1,0 +1,44 @@
+<Locations>
+  <locations>
+    <entry>
+      <string>asd</string>
+      <Location>
+        <name>asd</name>
+        <capacity>10</capacity>
+        <toBeDeleted>false</toBeDeleted>
+      </Location>
+    </entry>
+    <entry>
+      <string>Empty Venue</string>
+      <Location>
+        <name>Empty Venue</name>
+        <capacity>0</capacity>
+        <toBeDeleted>false</toBeDeleted>
+      </Location>
+    </entry>
+    <entry>
+      <string>Room401</string>
+      <Location>
+        <name>Room401</name>
+        <capacity>1</capacity>
+        <toBeDeleted>false</toBeDeleted>
+      </Location>
+    </entry>
+    <entry>
+      <string>Room301</string>
+      <Location>
+        <name>Room301</name>
+        <capacity>10</capacity>
+        <toBeDeleted>false</toBeDeleted>
+      </Location>
+    </entry>
+    <entry>
+      <string>Room201</string>
+      <Location>
+        <name>Room201</name>
+        <capacity>100</capacity>
+        <toBeDeleted>false</toBeDeleted>
+      </Location>
+    </entry>
+  </locations>
+</Locations>

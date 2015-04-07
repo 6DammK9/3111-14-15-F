@@ -1,0 +1,7 @@
+<java.util.Arrays_-ArrayList>
+  <a class="java.lang.Double-array">
+    <speed>1.0</speed>
+    <speed>3.0</speed>
+    <speed>3600.0</speed>
+  </a>
+</java.util.Arrays_-ArrayList>
